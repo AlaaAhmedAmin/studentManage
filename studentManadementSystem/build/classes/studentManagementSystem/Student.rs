@@ -1,4 +1,0 @@
-studentManagementSystem.Undergraduate
-studentManagementSystem.Student
-studentManagementSystem.PartTime
-studentManagementSystem.Graduate
